@@ -4,28 +4,28 @@
       "apellido": "Pérez",
       "ficha": 287859,
       "curso": "Tecnólogo en Análisis y Desarrollo de Software",
-      "foto":"https://github.com/cesarmcuellar/Elecciones/blob/main/candidato1.jpg"
+      "foto":"https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/candidato1.jpg"
     },
     {
       "nombre": "Ana",
       "apellido": "Gómez",
       "ficha": 287860,
       "curso": "Tecnólogo en Multimedia",
-      "foto":"https://github.com/cesarmcuellar/Elecciones/blob/main/candidato2.jpg"
+      "foto":"https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/candidato2.jpg"
     },
     {
       "nombre": "Carlos",
       "apellido": "Martínez",
       "ficha": 287861,
       "curso": "Tecnólogo en Refrigeración",
-      "foto":"https://github.com/cesarmcuellar/Elecciones/blob/main/candidato3.jpg"
+      "foto":"https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/candidato3.jpg"
     },
     {
         "nombre": "Blanco",
         "apellido": "Blanco",
         "ficha": null,
         "curso": null,
-        "foto":"https://github.com/cesarmcuellar/Elecciones/blob/main/votoblanco.png"
+        "foto":"https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/votoblanco.png"
     }
   ]
   
