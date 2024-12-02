@@ -1,0 +1,31 @@
+[
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "ficha": 287859,
+      "curso": "Tecnólogo en Análisis y Desarrollo de Software",
+      "foto":null
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Gómez",
+      "ficha": 287860,
+      "curso": "Tecnólogo en Multimedia",
+      "foto":null
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Martínez",
+      "ficha": 287861,
+      "curso": "Tecnólogo en Refrigeración",
+      "foto":null
+    },
+    {
+        "nombre": "Blanco",
+        "apellido": "Blanco",
+        "ficha": null,
+        "curso": null,
+        "foto":null
+    }
+  ]
+  
