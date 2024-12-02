@@ -24,7 +24,7 @@
         "nombre": "Blanco",
         "apellido": "Blanco",
         "ficha": null,
-        "curso": null,
+        "curso": "VOTO EN BLANCO",
         "foto":"https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/votoblanco.png"
     }
   ]
